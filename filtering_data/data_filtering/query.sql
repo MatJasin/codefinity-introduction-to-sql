@@ -1,0 +1,1 @@
+SELECT id, name, region FROm country WHERE continent='North America';
