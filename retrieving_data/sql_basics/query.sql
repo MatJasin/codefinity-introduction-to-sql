@@ -1,0 +1,2 @@
+SELECT ___ 
+FROM ____;
